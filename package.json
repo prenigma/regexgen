@@ -1,5 +1,5 @@
 {
-  "name": "regexgen",
+  "name": "prenigmaregexgen",
   "version": "1.3.0",
   "description": "Generate regular expressions that match a set of strings",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "regexgen": "bin/cli.js"
   },
   "dependencies": {
-    "jsesc": "^2.3.0",
+    "prenigmajsesc": "^3.0.2",
     "regenerate": "^1.3.2"
   },
   "devDependencies": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devongovett/regexgen.git"
+    "url": "git+https://github.com/prenigma/regexgen.git"
   },
   "keywords": [
     "regex",
