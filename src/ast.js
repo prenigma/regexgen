@@ -1,4 +1,4 @@
-const jsesc = require('jsesc');
+const jsesc = require('prenigmajsesc');
 const regenerate = require('regenerate');
 
 /**
